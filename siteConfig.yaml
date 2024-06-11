@@ -9,7 +9,7 @@ linkChecker:
   options:
     CheckExternal: false
 logo:
-  image: ./images/logo.png
+  image: ./images/indexify_logo.svg
   altText: Indexify
 toc:
   enable: true
